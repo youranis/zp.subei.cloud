@@ -1,0 +1,18 @@
+div{
+    color: blueviolet;
+}
+.blue
+{
+  width: 500px;
+  height: 100px;
+  background-color: aquamarine;
+  color: blue;  
+  font-family: 楷体，sans-serif;
+}
+.yellow
+{
+  text-indent: 2em;
+  background-color: yellow;
+  color:rgb(255, 51, 0);  
+  font-family: 楷体，sans-serif;
+}
