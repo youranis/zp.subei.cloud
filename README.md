@@ -20,7 +20,7 @@
 ---
 ### 联系方式
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/youranis)
-[点击添加我的QQ](http://wpa.qq.com/msgrd?v=3&uin=2445408174&site=qq&menu=yes "点击添加qq好友")
+[点击添加我的QQ](http://wpa.qq.com/msgrd?v=3&uin=3026418933&site=qq&menu=yes "点击添加qq好友")
 <div>
     <a href="http://wpa.qq.com/msgrd?v=3&uin=2445408174&site=qq&menu=yes">
         <img src="https://wiki.connect.qq.com/wp-content/uploads/2013/10/02_qq_logo_ver-1-200x300.png" alt="QQLOGO" width="50">
